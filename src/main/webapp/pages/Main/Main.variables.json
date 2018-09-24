@@ -867,11 +867,11 @@
       "watchOn" : "HrdbEmployeeData",
       "package" : "com.hrdb.Employee"
     } ],
-    "package" : "com.hrdb.Employee",
     "filterExpressions" : {
       "condition" : "AND",
       "rules" : [ ]
-    }
+    },
+    "package" : "com.hrdb.Employee"
   },
   "HrdbExecuteQueryvar" : {
     "_id" : "wm-HrdbExecuteQueryvar-wm.ServiceVariable-1477041978502",
