@@ -1,4 +1,14 @@
 [ {
+  "name" : "googlemaps",
+  "version" : "6.2",
+  "artifactType" : "PREFAB",
+  "artifactDependencyList" : null
+}, {
+  "name" : "youtube",
+  "version" : "2.6",
+  "artifactType" : "PREFAB",
+  "artifactDependencyList" : null
+}, {
   "name" : "material",
   "version" : "3.4",
   "artifactType" : "THEME",
